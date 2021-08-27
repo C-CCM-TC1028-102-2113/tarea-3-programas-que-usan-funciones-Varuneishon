@@ -1,9 +1,9 @@
 
 def main():
     #escribe tu código abajo de esta línea
-    def areaRect(x,y):
+def areaRect(x,y):
     ss=x*y
-    print("El area del rectangulo es: ",ss )
+    print("El área del rectángulo es: ",ss )
     return ss
 
 
